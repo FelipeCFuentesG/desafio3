@@ -1,0 +1,91 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: raleway;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0px;
+}
+header, h1{
+    margin: 0px;
+    padding: 0.5rem;
+    font-size: 3rem;
+}
+header img{
+    width: 1257px;
+}
+main{
+    background-color: black;
+    color: white;
+    display: flow-root;        
+}
+main img{    
+    width: 347px;
+    float: right;
+    margin-right: 167px;
+    margin-bottom: 61px;   
+}
+main p{
+ width: 476px;
+ margin-right:0px;
+ padding: 32px;
+ display: inline-block;
+ margin-left: 137px;
+}
+.features{
+    background-color:#1E1A13;
+    ;
+    color: white;
+    margin: 0px;
+    padding: 45px;
+    text-align: center;       
+}
+.features h2{
+    margin: 0px;
+    font-size: 2.5em;
+    padding-bottom: 30px;    
+}
+.icono {
+    width: 33%;
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.icono i{
+    display: block;
+    padding: 0.5em;
+    font-size: 3em;
+}
+.icono p{
+    font-size: 1.5rem;
+}
+.photos img{
+    width: 33%;    
+}
+.photos{
+    background-color: black;
+    padding: 73px;
+   /*  padding-left: 235px; */
+}
+
+.photos .f1{
+    width: 394px;
+    padding-right: 12px;
+}
+.photos .f2{
+    width: 342px;
+}
+.photos .f3{
+    width: 334px;
+    padding-left: 12px;
+}
+footer{
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 36px;
+    color: white;
+    font-size: 1.1rem; 
+}
